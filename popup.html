@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <h3>noGrok Settings</h3>
+  
+  <div class="setting-row main-toggle">
+    <span>Enable</span>
+    <label class="switch">
+      <input type="checkbox" id="statusToggle">
+      <span class="slider"></span>
+    </label>
+  </div>
+
+  <hr>
+
+  <div class="mode-label">Filter Mode:</div>
+  
+  <div class="radio-group">
+    <label class="radio-container">
+      <span class="mode-title">Strict</span>
+      <span class="mode-desc">Remove Grok's entire existence!</span>
+      <input type="radio" name="filterMode" value="strict">
+      <span class="radio-checkmark"></span>
+    </label>
+
+    <label class="radio-container">
+      <span class="mode-title">Lite (@tag only)</span>
+      <span class="mode-desc">Only removes official Grok posts and @grok mentions</span>
+      <input type="radio" name="filterMode" value="lite">
+      <span class="radio-checkmark"></span>
+    </label>
+  </div>
+
+  <div class="footer">
+    made by <a href="https://github.com/akabisan" id="authorLink" target="_blank">akabi</a> (*´ω｀*) 
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
