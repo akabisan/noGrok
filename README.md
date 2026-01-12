@@ -1,6 +1,6 @@
 # noGrok
 
-**A Firefox extension to remove Grok’s entire existence from Twitter/X.**
+**A Firefox extension to remove Grok’s entire existence from Twitter.**
 
 ### Why noGrok?
 Standard "muted words" on Twitter can hide tweets, but it still clutters the UI with "this post is hidden" stuff. 
