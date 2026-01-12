@@ -5,11 +5,10 @@
 ### Why noGrok?
 Standard "muted words" on Twitter can hide tweets, but it still clutters the UI with "this post is hidden" stuff. 
 
-**noGrok** goes where filters can't:
-* ✅ **Sidebar Remove:** Removes the Grok button from your main navigation menu.
-* ✅ **Icon Cleanup:** Deletes the "Explain this post" button on every tweet.
-* ✅ **Drawer Removal:** Snaps the floating Grok drawer above your Messages out of existence.
-* ✅ **Contextual Filtering:** Cleans up "Communities" and "Trends" that are saturated with Grok-related content.
+**noGrok** goes where those can't:
+* ✅ **UI Cleanup:** Removes the Grok sidebar button, the "Explain this post" icon, and the floating drawer.
+* ✅ **Trends & Explore:** Filters out Grok-spam from your Trends, Search, and Communities.
+* ✅ **Smart Filtering:** Automatically hides posts from @grok and AI-generated spam in your replies.
 
 ---
 
@@ -22,7 +21,6 @@ Standard "muted words" on Twitter can hide tweets, but it still clutters the UI 
 
 ### Installation
 
-#### Temporary (Developer Mode)
 Until the extension is officially live on the Firefox Add-on Store:
 1. Download or Clone this repository.
 2. Open Firefox and type `about:debugging` in the address bar.
