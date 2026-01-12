@@ -3,11 +3,11 @@
 **Remove Grok’s entire existence from Twitter/X.**
 
 ### Why noGrok?
-Standard "Muted Words" on X can hide tweets, but they are powerless against the User Interface. 
+Standard "muted words" on Twitter can hide tweets, but it still clutters the UI with "this post is hidden" stuff. 
 
 **noGrok** goes where filters can't:
-* ✅ **Sidebar Purge:** Removes the Grok button from your main navigation menu.
-* ✅ **Icon Cleanup:** Deletes the "Explain this post" button from every tweet.
+* ✅ **Sidebar Remove:** Removes the Grok button from your main navigation menu.
+* ✅ **Icon Cleanup:** Deletes the "Explain this post" button on every tweet.
 * ✅ **Drawer Removal:** Snaps the floating Grok drawer above your Messages out of existence.
 * ✅ **Contextual Filtering:** Cleans up "Communities" and "Trends" that are saturated with Grok-related content.
 
@@ -15,8 +15,8 @@ Standard "Muted Words" on X can hide tweets, but they are powerless against the 
 
 ### Two Filtering Modes
 
-1.   **Strict Mode (Default):** The scorched-earth policy. If the word "Grok" is mentioned in a post, a trend, or a button—it’s gone.
-2.   **Lite Mode:** A surgical approach. It removes official `@grok` posts, bot mentions, and crypto-spam, but keeps organic discussions about Grok visible.
+1.   **Strict (Default):** You won't see anything called Grok ever.
+2.   **Lite:** It removes official `@grok` posts, bot mentions, and crypto-spam, but keeps discussions about Grok visible.
 
 ---
 
