@@ -19,15 +19,4 @@ Standard "muted words" on Twitter can hide tweets, but it still clutters the UI 
 
 ---
 
-### Installation
-
-Until the extension is officially live on the Firefox Add-on Store:
-1. Download or Clone this repository.
-2. Open Firefox and type `about:debugging` in the address bar.
-3. Click **"This Firefox"** in the sidebar.
-4. Click **"Load Temporary Add-on..."**.
-5. Select the `manifest.json` file from your local folder.
-
----
-
 **Note:** "Grok" is a registered trademark of xAI. This extension is an independent project and is not affiliated with, endorsed by, or associated with xAI or X (Twitter). It’s just a tool for a cleaner browsing experience.
